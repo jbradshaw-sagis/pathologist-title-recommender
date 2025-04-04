@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pathologist-title-recommender/static/css/main.e6c13ad2.css",
+    "main.js": "/pathologist-title-recommender/static/js/main.e0e37d01.js",
+    "static/js/453.f0b01416.chunk.js": "/pathologist-title-recommender/static/js/453.f0b01416.chunk.js",
+    "index.html": "/pathologist-title-recommender/index.html",
+    "main.e6c13ad2.css.map": "/pathologist-title-recommender/static/css/main.e6c13ad2.css.map",
+    "main.e0e37d01.js.map": "/pathologist-title-recommender/static/js/main.e0e37d01.js.map",
+    "453.f0b01416.chunk.js.map": "/pathologist-title-recommender/static/js/453.f0b01416.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e0e37d01.js"
+  ]
+}
